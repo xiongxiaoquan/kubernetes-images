@@ -1,8 +1,8 @@
-# k8s-images
-# 使用dockerhub+github自动拉取谷歌kubernetes镜像
+### k8s-images
+### 使用dockerhub+github自动拉取谷歌kubernetes镜像
 #google镜像仓库：https://console.cloud.google.com/gcr/images/google-containers/GLOBAL
 
-# 手动拉取镜像：
+### 手动拉取镜像：
 docker pull gcr.io/google-containers/kube-proxy-amd64:v1.13.0
 docker pull gcr.io/google-containers/kube-controller-manager-amd64:v1.13.0
 docker pull gcr.io/google-containers/kube-scheduler-amd64:v1.13.0
