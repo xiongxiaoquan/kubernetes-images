@@ -1,5 +1,6 @@
 ### 使用dockerhub+github自动拉取谷歌kubernetes镜像
 google镜像仓库：https://console.cloud.google.com/gcr/images/google-containers/GLOBAL
+helm镜像仓库:https://console.cloud.google.com/gcr/images/kubernetes-helm/GLOBAL
 
 个人dockerhub仓库：https://hub.docker.com/u/willdockerhub/
 
