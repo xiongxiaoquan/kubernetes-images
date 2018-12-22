@@ -3,7 +3,9 @@ google镜像仓库：https://console.cloud.google.com/gcr/images/google-containe
 
 helm镜像仓库:https://console.cloud.google.com/gcr/images/kubernetes-helm/GLOBAL
 
-个人dockerhub仓库：https://hub.docker.com/u/willdockerhub/
+dockerhub仓库：https://hub.docker.com/u/willdockerhub/
+
+github构建仓库：https://github.com/zhwill/k8s-images
 
 ### 手动拉取镜像：
 ```shell
