@@ -1,4 +1,4 @@
-### 使用dockerhub+github自动拉取谷歌kubernetes镜像
+### Dockerhub+Github拉取谷歌kubernetes镜像
 
 dockerhub仓库：https://hub.docker.com/u/willdockerhub/
 
