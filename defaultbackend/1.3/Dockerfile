@@ -1,1 +1,1 @@
-FROM docker pull gcr.io/google-containers/defaultbackend:1.3
+FROM gcr.io/google-containers/defaultbackend:1.3
