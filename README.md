@@ -1,4 +1,5 @@
-### Dockerhub+Github拉取谷歌kubernetes镜像
+### 说明
+使用Dockerhub的Automated Builds功能从github仓库的dockerfile中构建镜像，Build到dockerhub个人仓库，然后再从它们上面拉取.
 
 dockerhub仓库：https://hub.docker.com/u/willdockerhub/
 
@@ -6,9 +7,8 @@ github构建仓库：https://github.com/zhwill/k8s-images
 
 google镜像仓库：https://console.cloud.google.com/gcr/images/google-containers/GLOBAL
 
-helm镜像仓库:https://console.cloud.google.com/gcr/images/kubernetes-helm/GLOBAL
 
-### 使用方法：
+### 使用方法示例：
 ```shell
 ## 拉取images
 docker pull willdockerhub/kube-apiserver-amd64:v1.13.0
