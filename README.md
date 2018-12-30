@@ -20,5 +20,9 @@ docker tag willdockerhub/kube-apiserver-amd64:v1.13.0 k8s.gcr.io/kube-apiserver-
 docker rmi willdockerhub/kube-apiserver-amd64:v1.13.0
 ```
 
-### 或者参考:
+### 加速器
+使用dockerhub镜像建议配置加速器，参考daocloud镜像加速器配置：
+https://www.daocloud.io/mirror
+
+### 构建教程:
 https://blog.csdn.net/networken/article/details/84571373
