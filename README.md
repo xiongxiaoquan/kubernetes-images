@@ -3,7 +3,7 @@
 
 dockerhub仓库：https://hub.docker.com/u/willdockerhub/
 
-github构建仓库：https://github.com/zhwill/k8s-images
+github构建仓库：https://github.com/zhwill/kuberneres-images
 
 google镜像仓库：https://console.cloud.google.com/gcr/images/google-containers/GLOBAL
 
